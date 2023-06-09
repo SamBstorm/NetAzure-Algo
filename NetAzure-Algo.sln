@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo1-Inversion", "Exo1-Inve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo2-ConversionSeconde", "Exo2-ConversionSeconde\Exo2-ConversionSeconde.csproj", "{A2BAECA7-BF4D-4C03-8C5D-9C69ED32AA20}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExoBonus01-TourTerre", "ExoBonus01-TourTerre\ExoBonus01-TourTerre.csproj", "{7633F4E2-D698-48C1-B710-1E3740BF0338}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A2BAECA7-BF4D-4C03-8C5D-9C69ED32AA20}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2BAECA7-BF4D-4C03-8C5D-9C69ED32AA20}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2BAECA7-BF4D-4C03-8C5D-9C69ED32AA20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7633F4E2-D698-48C1-B710-1E3740BF0338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7633F4E2-D698-48C1-B710-1E3740BF0338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7633F4E2-D698-48C1-B710-1E3740BF0338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7633F4E2-D698-48C1-B710-1E3740BF0338}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
