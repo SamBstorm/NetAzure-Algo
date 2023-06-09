@@ -18,7 +18,7 @@
             Console.WriteLine("Veuillez indiquer une distance en km :");
             distance = int.Parse(Console.ReadLine());
             circonference = (2 * RAYON * Math.PI);
-            tour = (int)(distance / circonference) ;
+            tour = (int)(distance / circonference);
             km = distance % circonference;
 
             Console.WriteLine($"{distance} km donne {tour} tour(s) et {km} km.");
